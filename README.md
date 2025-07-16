@@ -15,3 +15,6 @@ Cloud-System Engineer @Cineb ; <br>
 
 - 🧠 I mostly use: `.py`, `.php`, `.sh`, `.html`, `.css`, `.js`
 - 🛠️ [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=black)](#) [![VMWare](https://img.shields.io/badge/VMware-%2307405e.svg?logo=vmware&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479B1?logo=mysql&logoColor=fff)](#) [![Nginx](https://img.shields.io/badge/-NGINX-009639?&logo=nginx&logoColor=white)](#) [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#) [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Grafana](https://img.shields.io/badge/Grafana-D97757?logo=grafana&logoColor=fff)](#)
+
+
+<img align="center" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
