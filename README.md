@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=600&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Hey..It's+me%2C+Arif+Xaman!+%F0%9F%91%8B;A+Cloud-System+%26+Aspiring+DevOps+Engineer" />
+</p>
 
-<!--
-**arifxmn/arifxmn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Want to learn ABCD?
+- A for Arif
+- B for Backend
+- C for Cloud
+- D for DevOps
+> Ops, Looks like you've just discovered what I'm into!
 
-Here are some ideas to get you started:
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud-System Engineer @Cineb ; <br>
+
+- 🧠 I mostly use: `.py`, `.php`, `.sh`, `.html`, `.css`, `.js`
+- 🛠️ 
